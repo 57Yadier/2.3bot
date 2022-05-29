@@ -1,2 +1,2 @@
-TOKEN = '5311134898:AAHIfedj3Byl5ZLCrhbor519022AZ1ae9ks'
-ADMIN = 'EL_Wizard'
+TOKEN = '5451786044:AAGQivmv1XzTXqH7WYq-VBx6IkWgeAuX7rk'
+ADMIN = 'countryandlifee'
