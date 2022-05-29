@@ -1,0 +1,2 @@
+TOKEN = '5311134898:AAHIfedj3Byl5ZLCrhbor519022AZ1ae9ks'
+ADMIN = 'EL_Wizard'
